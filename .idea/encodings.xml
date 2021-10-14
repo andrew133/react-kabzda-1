@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/public/manifest.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/App.test.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/setupTests.js" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
